@@ -1,0 +1,4 @@
+cbdsconv: Convert your comics (from dirs, cbr, cbz or pdf) to view on your Nintendo DS wiht ComicBookDS
+Only execute the script whith the path to dirs o files to convert.
+For example:
+./cbdsconv.py /home/fulano/mycomic /home/fulano/comic2.cbz
